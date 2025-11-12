@@ -93,3 +93,20 @@ graph TB
 **¿Por qué SQLite?** Cero configuración, portabilidad completa, y rendimiento excepcional para aplicaciones de escritorio (<100GB datos).
 
 **¿Por qué Valkey?** Compatible 100% con Redis pero con gobernanza open-source garantizada bajo Linux Foundation.
+
+
+---
+
+## 🎨 Diseño y Documentación de UX/UI
+
+Esta sección provee acceso a los artefactos de diseño y la documentación de decisiones para las interfaces de usuario de Orbe.
+
+### Orbe POS - Mockups y Documentación
+
+Para la versión del Punto de Venta (POS) de Orbe, se han generado los siguientes recursos:
+
+*   **Mockups Visuales (Excalidraw):** Explora los diseños visuales y flujos de usuario en el directorio de mockups.
+    [Acceder a Mockups POS](design/pos/mockups/)
+
+*   **Documentación de Decisiones de Diseño:** Consulta la justificación, pautas y decisiones clave detrás de los diseños.
+    [Leer Documentación de Diseño POS](docs/design/pos_design_decisions.md)
